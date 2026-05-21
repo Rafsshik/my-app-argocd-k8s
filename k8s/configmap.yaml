@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: rfthz-app-config
+  namespace: rfthz-app
+data:
+  ENVIRONMENT:"local-minikube"
