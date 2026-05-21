@@ -1,5 +1,10 @@
 # Node.js + Kubernetes + Argo CD
 
+<img width="2206" height="1139" alt="image" src="https://github.com/user-attachments/assets/d615af29-674d-4234-b4a9-4cc7cbaaaf4c" />
+
+
+<img width="1956" height="1108" alt="image" src="https://github.com/user-attachments/assets/0b889c66-5223-4fc9-9237-5d820aba4978" />
+
 Projeto de laboratorio para demonstrar um fluxo simples de entrega com **Docker**, **Kubernetes**, **Minikube** e **Argo CD** usando uma aplicacao **Node.js com Express**.
 
 A ideia principal e manter o Git como fonte da verdade: o codigo da aplicacao e os manifests Kubernetes ficam neste repositorio, enquanto o Argo CD acompanha as mudancas e sincroniza o cluster automaticamente.
