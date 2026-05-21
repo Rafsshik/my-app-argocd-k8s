@@ -4,4 +4,4 @@ metadata:
   name: rfthz-app-config
   namespace: rfthz-app
 data:
-  ENVIRONMENT:"local-minikube"
+  ENVIRONMENT: "local-minikube"
