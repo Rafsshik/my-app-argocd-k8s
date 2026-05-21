@@ -5,7 +5,7 @@ const port = process.env.PORT || 3000;
 
 app.get("/", (req, res) => {
   res.json({
-    message: "Aplicacao rodando com Kubernetes + Argo CD",
+    message: "Aplicação rfthz-app rodando com Kubernetes / Argo CD",
     environment: process.env.ENVIRONMENT || "local"
   });
 });
